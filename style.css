@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+#colorFlipper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white ;
+    background-color: black;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    outline: none;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
